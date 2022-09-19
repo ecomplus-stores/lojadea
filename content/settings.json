@@ -7,9 +7,9 @@
     "custom": "_"
   },
   "bg_color": "#e1dbdb",
-  "logo": "/img/uploads/logo.png",
-  "name": "lojadea",
-  "short_name": "lojadea",
+  "logo": "/img/uploads/1637760808790-loja.png",
+  "name": "Loja D&A",
+  "short_name": "Loja D&A",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -20,6 +20,6 @@
   "secondary_color": "#0b3d84",
   "icon": "/img/uploads/loja-d-a.png",
   "store_id": 16431,
-  "description": "lojadea",
+  "description": "Onde você Encontra os Melhores Produtos e com os Melhores Preços.",
   "large_icon": "/img/uploads/loja-d-a.png"
 }
