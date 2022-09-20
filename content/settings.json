@@ -1,6 +1,5 @@
 {
   "domain": "www.lojadea.com",
-  "repository": "ecomplus-stores/lojadea",
   "currency_symbol": "R$",
   "primary_color": "#114177",
   "theme": {
@@ -8,13 +7,14 @@
     "custom": "_"
   },
   "bg_color": "#e1dbdb",
+  "repository": "ecomplus-stores/lojadea",
   "logo": "/img/uploads/1637760808790-loja.png",
   "name": "Loja D&A",
   "short_name": "Loja D&A",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Rubik",
   "favicon": "/img/uploads/loja-d-a.png",
   "icons_font": "_",
   "country_code": "BR",
