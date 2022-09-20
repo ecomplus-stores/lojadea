@@ -1,5 +1,6 @@
 {
-  "domain": "lojadea.netlify.app",
+  "domain": "www.lojadea.com",
+  "repository": "ecomplus-stores/lojadea",
   "currency_symbol": "R$",
   "primary_color": "#114177",
   "theme": {
