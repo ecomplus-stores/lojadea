@@ -1,7 +1,7 @@
 {
   "domain": "www.lojadea.com",
   "currency_symbol": "R$",
-  "primary_color": "#114177",
+  "primary_color": "#0a295a",
   "theme": {
     "bootswatch": "yeti",
     "custom": "_"
