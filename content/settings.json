@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#114177",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "yeti",
     "custom": "_"
   },
   "bg_color": "#e1dbdb",
@@ -14,9 +14,9 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Montserrat",
+  "font_family": "Inter",
   "favicon": "/img/uploads/loja-d-a.png",
-  "icons_font": "font-awesome",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#0b3d84",
   "icon": "/img/uploads/loja-d-a.png",
