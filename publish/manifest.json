@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.10d605c1c721ad78ca36d7462c4bc1bb.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.5334b53228eb15f4dc938f630067ea89.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.7e1da00b20f58b69421e237ea539b0f2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.34ec33ce025a89ba513957b949ee1d2a.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.c28bcc5309cfaf1f7343cbaab84a90c7.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Loja D&A",
+  "short_name": "Loja D&A",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Onde você Encontra os Melhores Produtos e com os Melhores Preços.",
+  "background_color": "#e1dbdb",
+  "theme_color": "#0a295a"
+}
